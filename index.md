@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Welcome to John's Blog!
 
-I'm glad you are here. I plan to talk about ...
+I will talk about some science that is interesting to me!
